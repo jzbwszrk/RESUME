@@ -1,5 +1,5 @@
 ## <center>个人简历</center>
-！[Portrait]（https://simimg.com/i/yyNia）
+[Portrait]：https://simimg.com/i/yyNia
 ### 基本信息
 生 日：1996年04月14日<br />
 身 高：178cm<br />
