@@ -1,5 +1,5 @@
 ## <center>个人简历</center>
-[Portrait]:https://pan.baidu.com/s/1htsntvY
+[Portrait]:http://m.qpic.cn/psb?/V11yKhpj3cED2P/dxOX2Mr*ip2fhVj4J.CNKEFLuaZ.eeGUho23*LNaiJ0!/b/dMgAAAAAAAAA&bo=gAJVAwAAAAARF*Q!&rf=viewer_4
 ### 基本信息
 生 日：1996年04月14日<br />
 身 高：178cm<br />
