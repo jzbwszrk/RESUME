@@ -1,29 +1,18 @@
-## 个人介绍
+## 基本信息
+生  日 ：       1996 年 04 月 14 日  
+身  高 ：       178 cm
+体  重 ：       68 kg        
+性  别 ：       男
+民  族 ：       汉族
+语  言 ：       汉语、英语、德语
+学  校 ：       湖南大学（应届生）
+专  业 ：       化学工程与工艺
+六  级 ：       498 分
+住  址 ：       天津市南开区
 
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
