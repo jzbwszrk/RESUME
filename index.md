@@ -1,5 +1,5 @@
 ## <center>个人简历</center>
-<div align=center><img width="38%" height="38%" src="http://imglf5.nosdn.127.net/img/OGYxeTlwajZyc2Z6SjVVbUtKY1NVNGFyVnlMYjc3Nk8wWDZkYnlTclFYcnl5MHdlbmFjejF3PT0.jpg?imageView&thumbnail=2000y2666&type=jpg&quality=96&stripmeta=0&type=jpg"/></div>
+<div align="center"><img width="38%" height="38%" src="http://imglf5.nosdn.127.net/img/OGYxeTlwajZyc2Z6SjVVbUtKY1NVNGFyVnlMYjc3Nk8wWDZkYnlTclFYcnl5MHdlbmFjejF3PT0.jpg?imageView&thumbnail=2000y2666&type=jpg&quality=96&stripmeta=0&type=jpg"/></div>
 ### 基本信息
 姓 名：陈栩胜<br />
 生 日：1996年04月14日<br />
