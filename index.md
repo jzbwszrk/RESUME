@@ -1,6 +1,7 @@
 ## <center>个人简历</center>
 ![portrait](https://s1.ax2x.com/2018/02/13/yyNia.jpg)
 ### 基本信息
+姓 名：陈栩胜<br />
 生 日：1996年04月14日<br />
 身 高：178cm<br />
 体 重：68kg<br />
@@ -12,13 +13,34 @@
 六 级：498分<br />
 住 址：天津市南开区<br />
 
-### Markdown
+### 个人介绍
+对隐藏在已知背后的未知以及其他未知充满了好奇；对新闻有敏锐的捕捉能力，沟通合作能力强，逻辑清晰；Microsoft Office 的掌握程度从大到小分别为 Word /  PowerPoint /  Excel（正在学习可视化）；熟悉 SketchUp ，会制作三维漫游视频。熟悉 SPSS，并统计分析过二语学习对母语的反向迁移；粗通Photoshop，之前的PDF版简历就是用 PS 做的；正学习 Python ，作为爱好，希望尽早学会；「好奇心日报」重度用户，认同公司理念，非常希望可以加入其中。
 
+### 主要实践经验
+* 湖南大学千年弦歌网络工作室干事（2014-2015）<br />
+1）「湖大微生活」编辑：原创文章「珞珈山下 东湖以西」浏览量第一；组织文章创作，浏览量列均为前几。<br />
+2）推广「湖大文库」：QQ 粉丝从 0 涨到了 1000  ；产品的网页浏览量和关注度翻了三倍。<br />
+3）审稿、整理文档等常规工作。<br />
+* 湖南大学青年志愿者协会拓展部部长（2015-2016）<br />
+1）调研策划创新志愿活动：如组织留学生和中国学生相互学习沟通。<br />
+2）负责 2015-2016 学年全校的迎新活动。<br />
+3）2015-2016 学年湖南大学青志协表彰大会策划人。<br />
+* 湖南大学青年志愿者协会项目部干事（2014-2015）<br />
+1）项目部年终成果展示策划人：组织创作、拍摄并剪辑了一部VCR ，效果出众。<br />
+2）全程跟进 2015-2016 学年地铁以及阳光交通志愿者。<br />
+3）策划 2015 年毕业嘉年华： 创作了活动的主题曲，呼吁毕业生回家前清理宿舍。<br />
+* 新东方雅思、中学部及倍学口语助教（2016-2017）<br />
+1）负责的雅思学员均分第一，初中数学班和高中物理班在新东方万人测验中均排第三。<br />
+2）批改雅思学员的作文。<br />
+3）协助雅思及倍学口语老师完成教学任务。<br />
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jzbwszrk/RESUME/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 获奖、实习及志愿服务情况| :----: |
+湖南大学 2014-2018 工学学士
+2017-2018 全国大学生化工设计大赛全国二等奖
+2016-2017 2015-2016 学年湖南大学迎新志愿活动“优秀志愿者”
+长沙市新东方国外部雅思助教
+长沙市新东方国内部化学和数学助教
+2015-2016 2014-2015 年湖南大学青年志愿者协会优秀干事奖
+长沙市地铁志愿者
+百里毅行证书
+湖南省青年马克思主义骨干培养班志愿者
